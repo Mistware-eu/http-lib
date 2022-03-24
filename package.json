@@ -1,0 +1,20 @@
+{
+  "name": "@mistware/http-lib",
+  "version": "1.0.0",
+  "description": "Small library for making simple http and https requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "url",
+    "http",
+    "https",
+    "request"
+  ],
+  "author": "Mistware <cc@mistware.eu>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
